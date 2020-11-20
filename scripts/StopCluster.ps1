@@ -4,8 +4,6 @@ $clusters = @(
        [pscustomobject]@{AKS_NAME='<<aksservicename>>';AKS_RG='<<aksserviceresourcegroup>>';AKS_SUBSCRIPTION='<<aksservicesubscription>>'}
 )
 
-
-
 function RunScript()
 {
     $clusters | ForEach-Object {
