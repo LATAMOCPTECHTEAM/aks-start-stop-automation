@@ -1,4 +1,4 @@
-# aks-start-stop-automation
+# AKS Start/Stop Automation
 
 Azure Automation to start/stop AKS cluster using Azure Automation Powershell Script
 
